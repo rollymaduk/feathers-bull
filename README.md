@@ -1,7 +1,7 @@
 # feathers-bull
 
 [![Build Status](https://travis-ci.org/feathersjs/feathers-bull.png?branch=master)](https://travis-ci.org/feathersjs/feathers-bull)
-
+[![Code Climate](https://lima.codeclimate.com/github/rollymaduk/feathers-bull/badges/gpa.svg)](https://lima.codeclimate.com/github/rollymaduk/feathers-bull)
 > A simple feathers plugin for Bull, automatically sets up a monitoring
 ui with toureiro at path /toureiro
 
