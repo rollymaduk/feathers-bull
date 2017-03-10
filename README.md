@@ -1,5 +1,7 @@
 # feathers-bull
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rollymaduk/feathers-bull.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/feathersjs/feathers-bull.png?branch=master)](https://travis-ci.org/feathersjs/feathers-bull)
 
 > A simple feathers plugin for Bull, automatically sets up a monitoring
